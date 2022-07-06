@@ -5,8 +5,8 @@
 - 👨‍🎓 Estudando programação pela DIO (Digital Innovation One) - Inscrito no Santander Bootcamp Fullstack
 - 👨 Pronomes: ele/dele
 
-<div align="row">
-  <a href="https://github.com/jsilva1979">
+<div>
+  <a href="https://github.com/jsilva1979"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsilva1979&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsilva1979&layout=compact&langs_count=7&theme=dracula"/>
 </div>
